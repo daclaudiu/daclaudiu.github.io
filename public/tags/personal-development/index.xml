@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>personal development on Greetings! 👋 Welcome to My Personal Site</title>
+    <link>/tags/personal-development/</link>
+    <description>Recent content in personal development on Greetings! 👋 Welcome to My Personal Site</description>
+    <image>
+      <title>Greetings! 👋 Welcome to My Personal Site</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/personal-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year’s resolution ideas for a successful 2023</title>
+      <link>/post/new-years-resolution-ideas-for-a-successful-2023/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/new-years-resolution-ideas-for-a-successful-2023/</guid>
+      <description>New Year’s resolution ideas for a successful 2023</description>
+    </item>
+    
+  </channel>
+</rss>
