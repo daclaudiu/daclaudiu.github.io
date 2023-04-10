@@ -8,8 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 paginate: 15
-
-# googleAnalytics:
+googleAnalytics : G-C0B21X37M1
 
 minify:
     disableXML: true
@@ -83,6 +82,7 @@ params:
     #         SiteVerificationTag: "XYZabc"
     #     yandex:
     #         SiteVerificationTag: "XYZabc"
+
 
 cover:
         hidden: true # hide everywhere but not in structured data
