@@ -54,7 +54,7 @@ params:
         enabled: true # needs to be explicitly set
         title:  
         subtitle: |
-            Hello, my name is Andrei-Claudiu. If you would like to know more about me, please feel free to check out the links and my "About Me" page.
+            Hello, my name is Claudiu. If you would like to know more about me, please feel free to check out the links and my "About Me" page.
         buttons:
             - name: blog 
               url: post
