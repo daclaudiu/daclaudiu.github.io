@@ -6,16 +6,11 @@ hideMeta: true
 
 ## Summary
 
-Hey there! I'm a tech and finance enthusiast who's always up for a good challenge. I love exploring cutting-edge topics like automation, privacy and security, and personal finance. I love movies, books, dogs and music.
+Greetings! As an avid learner with a diverse set of passions, I'm always seeking out new experiences to enrich my understanding of the world. 
 
-## Education
+I'm passionate about finance and technology, constantly exploring new tools and techniques to improve my work life. 
 
-Bachelor of Business and Administration in Marketing from University of Bucharest, 2018-2021. 
-
-## Work Experience
-
-Deloitte, Audit Analyst, 2021-Present
-
+My personal interests include: books, video games, racing, music and movies.
 
 ## Books I love:
 
