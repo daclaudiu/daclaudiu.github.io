@@ -54,14 +54,14 @@ params:
         enabled: true # needs to be explicitly set
         title:  
         subtitle: |
-            Hello, I am Claudiu. If you'd like to know more about me, feel free to check out the links provided below. 
+            Hello, my name is Andrei-Claudiu. If you would like to know more about me, please feel free to check out the links and my "About Me" page.
         buttons:
             - name: blog 
               url: post
             - name: about me
               url: about
 
-    #homeInfoParams: DONT DELETE ELSE SITE BREAKS 
+    #homeInfoParams: 
         Title: 
         Content: |
 
